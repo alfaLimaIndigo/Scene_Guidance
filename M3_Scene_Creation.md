@@ -55,7 +55,7 @@ The current methodology of splitting scenes follows the guidance of M1 scene cre
 
 As the scenes will be present on both sides of the road, the aim is to draw signs slightly to the side of the road the current lane would sit: 
 
-![[Pasted image 20210312020609.png]]
+!(ok)['/Pasted image 20210312020609.png']
 
 On dual carriageways, the aim is to place the scene more central to the road:
 
