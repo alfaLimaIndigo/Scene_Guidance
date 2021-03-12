@@ -59,7 +59,7 @@ As the scenes will be present on both sides of the road, the aim is to draw sign
 
 On dual carriageways, the aim is to place the scene more central to the road:
 
-![](dual_carriageway_1.png
+![](dual_carriageway_1.png)
 
 ### Handling roundabouts
 This is not a fixed requirement and a roundabout may be treating as a piece of infrastructure within a scene rather than the bounds of a scene
