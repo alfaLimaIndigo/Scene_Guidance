@@ -55,18 +55,18 @@ The current methodology of splitting scenes follows the guidance of M1 scene cre
 
 As the scenes will be present on both sides of the road, the aim is to draw signs slightly to the side of the road the current lane would sit: 
 
-!(ok)[roundabout_1.png]
+![](single_carriageway_1.png)
 
 On dual carriageways, the aim is to place the scene more central to the road:
 
-![[Pasted image 20210312020856.png]]
+![](dual_carriageway_1.png
 
 ### Handling roundabouts
 This is not a fixed requirement and a roundabout may be treating as a piece of infrastructure within a scene rather than the bounds of a scene
 
-![[Pasted image 20210311162225.png]]
+![](roundabout_1.png)
 
-![[Pasted image 20210312023038.png]]
+![](roundabout_2.png)
 
 
 ## Validation Tasks
