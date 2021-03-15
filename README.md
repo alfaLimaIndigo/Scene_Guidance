@@ -1,3 +1,3 @@
 # Scene_Guidance
 
-(main)[M3_Scene_Creation.md]
+(main)[M3_Scene_Creation]
